@@ -2,10 +2,11 @@
 Demo repository for group 21
 Interesting stuff
 
-Some
+
+How does the ocean say hello? It waves.
 \funny stuff
 
 Even more fun
 
 Lets do the bad things
-Really bad stuff 5421416
+Really bad stuff 21321 5421416
